@@ -14,93 +14,172 @@
 12    <uses-permission android:name="android.permission.INTERNET" />
 12-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:4:5-67
 12-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:4:22-64
-13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 13-->[com.facebook.flipper:flipper:0.37.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\cd24479b1ebca1a8254b8011ab4dc8b7\flipper-0.37.0\AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.37.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\cd24479b1ebca1a8254b8011ab4dc8b7\flipper-0.37.0\AndroidManifest.xml:16:22-73
-14
-15    <application
-15-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:6:5-25:19
-16        android:name="com.aider.MainApplication"
-16-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:7:7-38
-17        android:allowBackup="false"
-17-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:11:7-34
-18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.1.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2f326ffad3e962a59590e052ae754247\core-1.1.0\AndroidManifest.xml:24:18-86
-19        android:debuggable="true"
-20        android:icon="@mipmap/ic_launcher"
-20-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:9:7-41
-21        android:label="@string/app_name"
-21-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:8:7-39
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:10:7-52
-23        android:theme="@style/AppTheme"
-23-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:12:7-38
-24        android:usesCleartextTraffic="true" >
-24-->F:\MedicapsHack\aider\android\app\src\debug\AndroidManifest.xml:7:18-53
-25        <activity
-25-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:13:7-23:18
-26            android:name="com.aider.MainActivity"
-26-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:14:9-37
-27            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-27-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:16:9-86
-28            android:label="@string/app_name"
-28-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:15:9-41
-29            android:launchMode="singleTask"
-29-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:17:9-40
-30            android:windowSoftInputMode="adjustResize" >
-30-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:18:9-51
-31            <intent-filter>
-31-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:19:9-22:25
-32                <action android:name="android.intent.action.MAIN" />
-32-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:20:13-65
-32-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:20:21-62
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:21:13-73
-34-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:21:23-70
-35            </intent-filter>
-36        </activity>
-37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-37-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:24:7-84
-37-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:24:17-81
-38        <activity
-38-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
-39            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-39-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
-40            android:excludeFromRecents="true"
-40-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
-41            android:exported="false"
-41-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
-42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-42-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
-43        <!--
-44            Service handling Google Sign-In user revocation. For apps that do not integrate with
-45            Google Sign-In, this service will never be started.
-46        -->
-47        <service
-47-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
-48            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-48-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
-49            android:exported="true"
-49-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
-50            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-50-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
-51
-52        <activity
-52-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\72fd540f393a7f283fdb338f25fba355\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-53            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-53-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\72fd540f393a7f283fdb338f25fba355\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-54            android:exported="false"
-54-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\72fd540f393a7f283fdb338f25fba355\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-55-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\72fd540f393a7f283fdb338f25fba355\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-56
-57        <meta-data
-57-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\9c1af90e1c8c1b266693b122c6dac346\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
-58            android:name="com.google.android.gms.version"
-58-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\9c1af90e1c8c1b266693b122c6dac346\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
-59            android:value="@integer/google_play_services_version" />
-59-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\9c1af90e1c8c1b266693b122c6dac346\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
-60    </application>
-61
-62</manifest>
+14    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:13:5-79
+15-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:13:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\dd529c33e10cd4d24c907a9e378b1ca4\play-services-measurement-api-17.4.4\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\dd529c33e10cd4d24c907a9e378b1ca4\play-services-measurement-api-17.4.4\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+17-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:26:22-107
+18
+19    <application
+19-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:6:5-25:19
+20        android:name="com.aider.MainApplication"
+20-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:7:7-38
+21        android:allowBackup="false"
+21-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:11:7-34
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2f326ffad3e962a59590e052ae754247\core-1.1.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:9:7-41
+25        android:label="@string/app_name"
+25-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:8:7-39
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:10:7-52
+27        android:theme="@style/AppTheme"
+27-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:12:7-38
+28        android:usesCleartextTraffic="true" >
+28-->F:\MedicapsHack\aider\android\app\src\debug\AndroidManifest.xml:7:18-53
+29        <activity
+29-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:13:7-23:18
+30            android:name="com.aider.MainActivity"
+30-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:14:9-37
+31            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+31-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:16:9-86
+32            android:label="@string/app_name"
+32-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:15:9-41
+33            android:launchMode="singleTask"
+33-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:17:9-40
+34            android:windowSoftInputMode="adjustResize" >
+34-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:18:9-51
+35            <intent-filter>
+35-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:19:9-22:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:20:13-65
+36-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:20:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:21:13-73
+38-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:21:23-70
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+41-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:24:7-84
+41-->F:\MedicapsHack\aider\android\app\src\main\AndroidManifest.xml:24:17-81
+42
+43        <service
+43-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:17:9-23:19
+44            android:name="com.google.firebase.components.ComponentDiscoveryService"
+44-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:18:13-84
+45            android:directBootAware="true"
+45-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+46            android:exported="false" >
+46-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:19:13-37
+47            <meta-data
+47-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:20:13-22:85
+48                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+48-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:21:17-111
+49                android:value="com.google.firebase.components.ComponentRegistrar" />
+49-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\da06480bea2c61cdc3861c11040a2611\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:22:17-82
+50            <meta-data
+50-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\dd529c33e10cd4d24c907a9e378b1ca4\play-services-measurement-api-17.4.4\AndroidManifest.xml:30:13-32:85
+51                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+51-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\dd529c33e10cd4d24c907a9e378b1ca4\play-services-measurement-api-17.4.4\AndroidManifest.xml:31:17-139
+52                android:value="com.google.firebase.components.ComponentRegistrar" />
+52-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\dd529c33e10cd4d24c907a9e378b1ca4\play-services-measurement-api-17.4.4\AndroidManifest.xml:32:17-82
+53            <meta-data
+53-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\b5e1f1993623f713783ad0990bbdc68f\firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+54                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+54-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\b5e1f1993623f713783ad0990bbdc68f\firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\b5e1f1993623f713783ad0990bbdc68f\firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+56        </service>
+57
+58        <activity
+58-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+59            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+59-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+60            android:excludeFromRecents="true"
+60-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+61            android:exported="false"
+61-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+62-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+63        <!--
+64            Service handling Google Sign-In user revocation. For apps that do not integrate with
+65            Google Sign-In, this service will never be started.
+66        -->
+67        <service
+67-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+68            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+68-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+69            android:exported="true"
+69-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+70            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+70-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2bed15674cb0ce86c071e56d488f8f9d\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+71
+72        <activity
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\080551f29c47024fb5dbb6d912d33bc2\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+73            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\080551f29c47024fb5dbb6d912d33bc2\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+74            android:exported="false"
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\080551f29c47024fb5dbb6d912d33bc2\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\080551f29c47024fb5dbb6d912d33bc2\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+76
+77        <provider
+77-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+78            android:name="com.google.firebase.provider.FirebaseInitProvider"
+78-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+79            android:authorities="com.aider.firebaseinitprovider"
+79-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+80            android:exported="false"
+80-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+81            android:initOrder="100" />
+81-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\2fea5f66498560ce0b19230c88e15e97\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+82
+83        <receiver
+83-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:29:9-33:20
+84            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+84-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:30:13-85
+85            android:enabled="true"
+85-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:31:13-35
+86            android:exported="false" >
+86-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:32:13-37
+87        </receiver>
+88
+89        <service
+89-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:35:9-38:40
+90            android:name="com.google.android.gms.measurement.AppMeasurementService"
+90-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:36:13-84
+91            android:enabled="true"
+91-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:37:13-35
+92            android:exported="false" />
+92-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:38:13-37
+93        <service
+93-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:39:9-43:72
+94            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+94-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:40:13-87
+95            android:enabled="true"
+95-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:41:13-35
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:42:13-37
+97            android:permission="android.permission.BIND_JOB_SERVICE" />
+97-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\fff77f5e65c05f89683c36d98f59ac8a\play-services-measurement-17.4.4\AndroidManifest.xml:43:13-69
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\018589e34923a216991d1032ee4c49c3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\018589e34923a216991d1032ee4c49c3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dhana\.gradle\caches\transforms-2\files-2.1\018589e34923a216991d1032ee4c49c3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

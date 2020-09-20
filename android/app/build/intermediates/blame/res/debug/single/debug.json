@@ -41,7 +41,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_change_size_motion_spec.xml.flat",
@@ -109,11 +109,11 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -260,10 +260,6 @@
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\670361948055d441ff65ae93c5d6d9b8\\material-1.1.0\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_state_list_animator.xml.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\670361948055d441ff65ae93c5d6d9b8\\material-1.1.0\\res\\animator\\mtrl_extended_fab_state_list_animator.xml"
     },
@@ -290,10 +286,6 @@
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
@@ -349,15 +341,15 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
@@ -370,10 +362,6 @@
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_mtrl_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\670361948055d441ff65ae93c5d6d9b8\\material-1.1.0\\res\\anim\\mtrl_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -409,7 +397,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_primary_emphasis_high_type.xml.flat",
@@ -417,7 +405,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -573,7 +561,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -625,7 +613,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material_anim.xml.flat",
@@ -701,7 +689,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_without_line_height.xml.flat",
@@ -817,7 +805,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
@@ -853,7 +841,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -969,7 +957,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
@@ -993,7 +981,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_ripple_color.xml.flat",
@@ -1029,7 +1017,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
@@ -1057,7 +1045,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1098,10 +1086,6 @@
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1153,7 +1137,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1173,7 +1157,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1237,7 +1221,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -1257,7 +1241,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_design_checkbox.xml.flat",
@@ -1280,10 +1264,6 @@
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1301,7 +1281,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1333,7 +1313,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1357,7 +1337,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1437,7 +1417,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
@@ -1501,7 +1481,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -1529,7 +1509,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_end_icon.xml.flat",
@@ -1537,7 +1517,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_dialog_background.xml.flat",
@@ -1546,14 +1526,6 @@
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1853,7 +1825,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_slow_in.xml.flat",
@@ -1869,7 +1841,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_surface_emphasis_high_type.xml.flat",
@@ -1881,7 +1853,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1969,7 +1941,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_mtrl_popupmenu_background_dark.xml.flat",
@@ -1981,7 +1953,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
@@ -2045,7 +2017,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -2061,7 +2033,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -2197,11 +2169,11 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
@@ -2280,10 +2252,6 @@
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\e4043c6e9a4c8e695eae8f7aedd8cb7b\\appcompat-1.1.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -2345,7 +2313,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_day.xml.flat",
@@ -2393,7 +2361,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
@@ -2441,7 +2409,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
@@ -2485,7 +2453,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -2521,7 +2489,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -2530,10 +2498,6 @@
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_popupmenu_background.xml.flat",
         "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\670361948055d441ff65ae93c5d6d9b8\\material-1.1.0\\res\\drawable\\mtrl_popupmenu_background.xml"
-    },
-    {
-        "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\dd68a74f221b90f1aa65b8ec764d2152\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -2557,7 +2521,7 @@
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\72fd540f393a7f283fdb338f25fba355\\jetified-play-services-base-16.0.1\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+        "source": "C:\\Users\\dhana\\.gradle\\caches\\transforms-2\\files-2.1\\080551f29c47024fb5dbb6d912d33bc2\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\MedicapsHack\\aider\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",

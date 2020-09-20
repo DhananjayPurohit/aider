@@ -51,7 +51,7 @@ const AppNavigator = createStackNavigator(
 );
 
 const AppSwitchNavigator = createSwitchNavigator({
-  // Splash: { screen: Splash },
+  Splash: { screen: Splash },
   Register: { screen: Register},
   AppNavigator: { screen: AppNavigator },
 });
